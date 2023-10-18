@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <catalog name="Technical Books">
+        <book>
+            <ISBN>1234567890</ISBN>
+            <title>Introduction to Python Programming</title>
+            <author>John Smith</author>
+        </book>
+        <book>
+            <ISBN>2345678901</ISBN>
+            <title>Data Structures and Algorithms</title>
+            <author>Alice Johnson</author>
+        </book>
+    </catalog>
+    <catalog name="Cookery Books">
+        <book>
+            <ISBN>3456789012</ISBN>
+            <title>The Art of Baking</title>
+            <author>Emily Brown</author>
+        </book>
+        <book>
+            <ISBN>4567890123</ISBN>
+            <title>Culinary Creations</title>
+            <author>David Wilson</author>
+        </book>
+    </catalog>
+</library>
